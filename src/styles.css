@@ -1,0 +1,132 @@
+.App {
+    font-family: sans-serif;
+    text-align: center;
+  
+    
+
+  }
+  .Login {
+    text-align: center;
+    padding-bottom:22%;
+    padding-top: 5%;
+    background-image : url("https://img.freepik.com/free-photo/hand-painted-watercolor-background-with-sky-clouds-shape_24972-1095.jpg?size=626&ext=jpg");
+    background-size:contain;
+    height:100%;
+    
+  }
+.LoginHead{
+    text-align: left;
+    padding-left: 38%;
+    margin-right: 30%;
+    color: chocolate;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    background-image: url("https://seeklogo.com/images/A/adobe-illustrator-cs6-logo-8B70445E4D-seeklogo.com.png");
+    background-position: center;
+    background-size: 6%;
+    background-repeat: no-repeat;
+}
+  .LoginUser {
+   
+    background-color:rgb(245, 232, 209);
+    border:1.5px solid brown;
+    padding-bottom: 20%;
+    padding-right: 20%;
+    padding-left:20%;
+    border-radius: 10px;
+    
+  }
+  .LoginUserBox {
+    border: 1.5px solid gray;
+    border-radius: 10px;
+    margin-top: 20px;
+    background-color: rgb(250, 244, 244);
+    width: 300px;
+    height:30px;
+    
+   
+  }
+  
+  
+  .LoginButton {
+    border: 1.5px solid gray;
+    border-radius: 10px;
+    background-color: rgb(59, 77, 233);;
+    margin-left: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width:310px ;
+    height: 30px;
+    color: white;
+    
+  }
+  .Nu {
+    font-size: 22px;
+    color: rgb(134, 9, 9);
+    margin-left: 10px;
+    margin-right: 1px;
+  }
+  .NewUserBtn{
+      
+    border: 1px solid gray;
+    border-radius: 10px;
+    background-color: rgb(250, 244, 244);
+    margin-left: 10px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    
+      
+  }
+
+  .FormHead{
+    font-style:inherit;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:blueviolet ;
+  }
+
+  .FormUserBox {
+    border: 1.5px solid gray;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgb(250, 244, 244);
+    width: 60%;
+    height:20px;
+  }
+
+  
+  
+  .FormUserBoxDrop {
+    border: 1.5px solid gray;
+    border-radius: 10px;
+    margin-top: 10px;
+    background-color: rgb(250, 244, 244);
+    width: 18%;
+    height:20px;
+  }
+
+  .LoginButtonForm {
+    border: 1.5px solid gray;
+    border-radius: 10px;
+    background-color: rgb(22, 141, 6);;
+    margin-left: 0px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    width:20% ;
+    height: 30px;
+    color: white;
+  }
+
+  .FormUser {
+   
+    background-color:rgb(178, 233, 247);
+    border:1.5px solid brown;
+    padding-top: 2%;
+    padding-bottom: 2%;
+    margin-right: 35%;
+    margin-left:35%;
+    border-radius: 10px;
+  }
+
+  .Ft {
+    font-size: 20px;
+    color: rgb(160, 20, 78);
+    margin-left: 1px;
+    margin-right: 1px;
+  }
